@@ -1,10 +1,10 @@
 {
-  "name": "storefile",
+  "name": "gulp-storefile",
   "description": "store file",
   "version": "0.0.1",
-  "homepage": "http://github.com/wearefractal/vinyl-fs",
-  "repository": "git://github.com/wearefractal/vinyl-fs.git",
-  "author": "Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
+  "homepage": "https://github.com/anddo/gulp-storefile",
+  "repository": "git://github.com/anddo/gulp-storefile.git",
+  "author": "Anddo <jjj706@163.com>",
   "main": "./index.js",
   "files": [
     "index.js",
